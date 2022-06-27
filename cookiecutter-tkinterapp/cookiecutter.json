@@ -1,0 +1,18 @@
+{
+    "full_name": "Adrian Loo",
+    "email": "adrian.loo1981@gmail.com",
+    "github_username": "spydermaxi",
+    "project_name": "Tkinter App",
+    "repo_name": "tkinter_app"
+    "project_short_description": "Python tkinter gui project to get you started",
+    "pypi_username": "{{cookiecutter.github_username}}",
+    "version": "0.1.0",
+    "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"],
+    "application_name": "TkinterApp",
+    "application_width": "800",
+    "application_height": "600",
+    "application_resizeable": ["True,True", "True,False", "False,True", "False,False"],
+    "application_min_width": "800",
+    "application_min_height": "600",
+    "application_showmenubar": ["True", "False"],
+}
